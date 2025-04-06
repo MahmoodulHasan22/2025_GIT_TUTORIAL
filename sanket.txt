@@ -1,0 +1,47 @@
+3D Objects/
+AppData/
+Application Data@
+Contacts/
+Cookies@
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Intel/
+IntelGraphicsProfiles/
+Links/
+Local Settings@
+MicrosoftEdgeBackups/
+Music/
+My Documents@
+Myproject/
+NTUSER.DAT{b0d4dc1b-cf37-11ed-b5fa-c661803ca866}.TM.blf
+NTUSER.DAT{b0d4dc1b-cf37-11ed-b5fa-c661803ca866}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{b0d4dc1b-cf37-11ed-b5fa-c661803ca866}.TMContainer00000000000000000002.regtrans-ms
+NetHood@
+OneDrive/
+Pictures/
+PrintHood@
+Recent@
+Saved Games/
+Searches/
+SendTo@
+Start Menu@
+Templates@
+Videos/
+file1.txt
+file2.txt
+file3.txt
+file4.txt
+file5.txt
+file6.txt
+myvideo/
+ntuser.dat
+ntuser.dat.log1
+ntuser.dat.log2
+ntuser.dat{4cba2a34-3dc4-11ee-b632-645d86bef72f}.TM.blf
+ntuser.dat{4cba2a34-3dc4-11ee-b632-645d86bef72f}.TMContainer00000000000000000001.regtrans-ms
+ntuser.dat{4cba2a34-3dc4-11ee-b632-645d86bef72f}.TMContainer00000000000000000002.regtrans-ms
+ntuser.ini
+sanket.txt
+user
